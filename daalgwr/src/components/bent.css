@@ -1,0 +1,6 @@
+.bent{
+    width: 45%;
+    height: 90%;
+    display: flex;
+    justify-content: space-between;
+}
